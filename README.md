@@ -8,7 +8,7 @@
 
 ## 📢 News
 
-- **2026-03-17:** Project page is live.
+- **2026-03-17:** Technical report is released on Arxiv.
 
 ## 📋 TODO
 

@@ -17,3 +17,19 @@ Code coming soon! Stay tuned!
 - [ ] Release Objaverse-TMS dataset
 - [ ] Release training code
 - [ ] Release inference code and pretrained model
+
+## 📖 Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@misc{wang2026skadapterskeletonbasedstructuralcontrol,
+      title={SK-Adapter: Skeleton-Based Structural Control for Native 3D Generation}, 
+      author={Anbang Wang and Yuzhuo Ao and Shangzhe Wu and Chi-Keung Tang},
+      year={2026},
+      eprint={2603.14152},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.14152}, 
+}
+```

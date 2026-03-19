@@ -23,13 +23,10 @@ Code coming soon! Stay tuned!
 If you find this work useful, please cite:
 
 ```bibtex
-@misc{wang2026skadapterskeletonbasedstructuralcontrol,
-      title={SK-Adapter: Skeleton-Based Structural Control for Native 3D Generation}, 
-      author={Anbang Wang and Yuzhuo Ao and Shangzhe Wu and Chi-Keung Tang},
-      year={2026},
-      eprint={2603.14152},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2603.14152}, 
+@Article{wang2026skadapterskeletonbasedstructuralcontrol,
+  title     = {SK-Adapter: Skeleton-Based Structural Control for Native 3D Generation},
+  author    = {Anbang Wang and Yuzhuo Ao and Shangzhe Wu and Chi-Keung Tang},
+  journal   = {arXiv preprint arXiv:2603.14152},
+  year      = {2026}
 }
 ```

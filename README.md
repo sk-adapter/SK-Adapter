@@ -16,7 +16,7 @@ Code coming soon! Stay tuned!
 
 - [ ] Release Objaverse-TMS dataset
 - [ ] Release training code
-- [ ] Release inference code and pretrained model
+- [ ] Release inference code and model weight
 
 ## 📖 Citation
 
